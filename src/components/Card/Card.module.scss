@@ -1,0 +1,28 @@
+.card {
+
+    border: none;
+    box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 220px;
+    border-radius: 40px;
+    margin: 20px;
+    text-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    .button {
+        background-color: #fff;
+        cursor: pointer;
+        border: none;
+        max-height: 40px;
+        margin-left: 25px;
+        padding: 0;
+    }
+
+    .button:hover {
+        box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+    }
+
+}
