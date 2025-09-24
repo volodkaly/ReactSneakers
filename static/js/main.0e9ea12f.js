@@ -6803,7 +6803,7 @@
                         children: (0, a.jsx)("img", {
                             width: 40,
                             height: 40,
-                            src: h ? "/img/heart-liked.png" : "/img/heart-unliked.png",
+                            src: h ? "/ReactSneakers/img/heart-liked.png" : "/ReactSneakers/img/heart-unliked.png",
                             alt: "Unliked"
                         })
                     }), (0, a.jsx)("button", {
@@ -6814,7 +6814,7 @@
                         children: (0, a.jsx)("img", {
                             width: 40,
                             height: 40,
-                            src: v ? "img/cart-plus.png" : "img/cart.png",
+                            src: v ? "/ReactSneakers/img/cart-plus.png" : "/ReactSneakers/img/cart.png",
                             alt: "BottonImage"
                         })
                     })]
@@ -6830,7 +6830,7 @@
                         className: "topLogo",
                         width: 90,
                         height: 60,
-                        src: "/img/logo.png",
+                        src: "/ReactSneakers/img/logo.png",
                         alt: "logo"
                     }), (0, a.jsxs)("div", {
                         className: "headerInfo",
@@ -6850,14 +6850,14 @@
                             className: "mr-0 cu-p",
                             width: 50,
                             height: 50,
-                            src: "img/cart.png",
+                            src: "/ReactSneakers/img/cart.png",
                             alt: "BottonImage"
                         })
                     }), (0, a.jsx)("li", {
                         children: (0, a.jsx)("img", {
                             width: 40,
                             height: 40,
-                            src: "/img/user.png",
+                            src: "/ReactSneakers/img/user.png",
                             alt: "user"
                         })
                     })]
