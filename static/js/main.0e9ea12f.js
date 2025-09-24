@@ -6886,7 +6886,7 @@
                             className: "d-flex justify-between m-10",
                             children: ["\u041a\u043e\u0440\u0437\u0438\u043d\u0430", " ", (0, a.jsx)("img", {
                                 className: "removeBtn m-10 cu-p",
-                                src: "/img/btn-remove.svg",
+                                src: "/ReactSneakers/img/btn-remove.svg",
                                 alt: "Remove",
                                 onClick: t
                             })]
@@ -6909,7 +6909,7 @@
                                 }), (0, a.jsx)("img", {
                                     onClick: () => r(n.id),
                                     className: "removeBtn m-10",
-                                    src: "/img/btn-remove.svg",
+                                    src: "/ReactSneakers/img/btn-remove.svg",
                                     alt: "Remove"
                                 })]
                             })
@@ -7013,7 +7013,7 @@
                     children: (0, a.jsxs)("div", {
                         className: "search-block d-flex align-center",
                         children: [(0, a.jsx)("img", {
-                            src: "/img/search.svg",
+                            src: "/ReactSneakers/img/search.svg",
                             width: 25,
                             height: 25,
                             alt: "Search"
